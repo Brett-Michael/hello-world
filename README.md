@@ -1,2 +1,4 @@
 # hello-world
-Hello World
+Hi Humans,
+
+Bret here, I like coding programs.
